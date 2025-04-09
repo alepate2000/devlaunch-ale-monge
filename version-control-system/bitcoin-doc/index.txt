@@ -1,0 +1,17 @@
+¿Que es Bitcoin?
+
+Bitcoin es una moneda digital (o criptomoneda) que funciona sin necesidad de bancos ni gobiernos. 
+Fue creada en 2009 por una persona (o grupo) bajo el seudónimo Satoshi Nakamoto. 
+A diferencia del dinero tradicional, Bitcoin se basa en una tecnología llamada blockchain, 
+que es como un registro público donde se anotan todas las transacciones de forma segura y descentralizada.
+Es limitada (solo existirán 21 millones), y una de sus principales ventajas es que permite enviar dinero a cualquier parte del mundo sin intermediarios.
+ También es muy volátil, por lo que su precio puede subir o bajar mucho en poco tiempo.
+
+ ¿Cómo funciona?
+
+Bitcoin se basa en una tecnología llamada blockchain o cadena de bloques. 
+Es como un gran libro contable público y digital, donde se registran todas las transacciones realizadas con Bitcoin. 
+Este libro está distribuido entre miles de computadoras (nodos) alrededor del mundo, lo que hace que:
+	•	No haya un punto central de control.
+	•	Sea casi imposible de falsificar.
+	•	Sea muy transparente y seguro.
