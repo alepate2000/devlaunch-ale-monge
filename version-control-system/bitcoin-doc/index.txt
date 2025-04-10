@@ -15,3 +15,7 @@ Este libro está distribuido entre miles de computadoras (nodos) alrededor del m
 	•	No haya un punto central de control.
 	•	Sea casi imposible de falsificar.
 	•	Sea muy transparente y seguro.
+
+    Bitcoin es mucho más que una moneda digital: representa una nueva forma de entender el dinero, basada en la descentralización, la seguridad y la libertad financiera. Al no depender de bancos o gobiernos, ofrece una alternativa global y resistente a la censura. Aunque todavía está en evolución y presenta desafíos como la volatilidad o la adopción masiva, ha abierto la puerta a una revolución tecnológica y económica que sigue creciendo.
+
+Ya sea como inversión, medio de pago o innovación tecnológica, Bitcoin ha cambiado la forma en que pensamos sobre el valor y el intercambio digital.
