@@ -1,0 +1,12 @@
+Puedes proporcionar una explicacio2n detallada de como cocinar un huevo 
+
+SOLUCIÓN: 
+
+Ve a la cocina.
+Busca un sartén.
+Busca un huevo.
+Ve a la estufa.
+Enciende la estufa.
+Pone el sartén.
+Busca mantequilla.
+Ponle mantequilla al sartén.
