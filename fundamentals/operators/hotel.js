@@ -13,7 +13,7 @@ const PRICE_PER_DAY = 100
 
 const promoDiscount = 0.05
 
-const days = parseInt(prompt('Cuantos días desea quedarse? ->'))
+const days = parseInt(prompt('Cuantos dias desea quedarse?'))
 
 const subtotal = PRICE_PER_DAY * days
 const discount = subtotal * promoDiscount
