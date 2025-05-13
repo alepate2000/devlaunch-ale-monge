@@ -31,7 +31,7 @@ switch(true){
     case (age >= 18 && age <= 29):
         console.log('young adult')
         break
-    case (age >= 30 && age <= 60):
+    case (age >= 30 && age <=60):
          console.log('adult')
           break   
     case (age > 60):
@@ -40,4 +40,18 @@ switch(true){
 }
 if(age <= 5 && age >=1){
  console.log("The institution does not support your age, please try again")}
+
+
+ switch(true){
+    case (age <= 0):
+        console.log('please enter a valid age')
+        break    
+    case (age <= 2):
+        console.log('baby')
+        break
+    default:
+        console.log('elderly')
+        break
+ }
+
 
